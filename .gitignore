@@ -42,3 +42,6 @@ Thumbs.db
 #####################
 .metadata/*
 
+# Android Studio
+*.iml
+build
